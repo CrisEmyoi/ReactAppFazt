@@ -1,0 +1,26 @@
+{/*<>
+  <Button text='Click Me'/>
+  <Button text='Pay'/>
+  <Button text='Hello World' name='Joe'/>
+     <UserCard
+      name="Ryan Ray"
+      amount={3000}
+      married={true}
+      points={[99, 33.3, 22.2]}
+      address={{
+        street: "123 main street",
+        city: "New York",
+      }}
+    />
+
+    <UserCard
+      name='Carlos Bascktra'
+      amount={800}
+      married={false}
+      points={[88,55,86,20]}
+      address={{
+        street: '453 some street',
+        city: 'Washinton'
+      }}
+    /> 
+  </>*/}
