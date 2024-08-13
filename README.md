@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning React<br>🎯 Goals: Become a IA Developer<br>🎲</p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning React<br>🎯 Goals: Become a IA Developer</p>
 
 ###
 
